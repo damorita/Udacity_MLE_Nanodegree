@@ -11,4 +11,4 @@ __Supervised and Unsupervised Learning__
 __Deep Learning and Reinforcement Learning__
  - CNN Dog Breed Project
  - Quadcopter
- - Capstone: [Japanese Machine Translation])(https://github.com/dlameyer/Japanese_Machine_Translation)
+ - Capstone: [Japanese Machine Translation](https://github.com/dlameyer/Japanese_Machine_Translation)
