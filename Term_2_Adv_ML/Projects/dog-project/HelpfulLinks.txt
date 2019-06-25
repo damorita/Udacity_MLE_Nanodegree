@@ -1,0 +1,3 @@
+https://github.com/rossbm/udacity-ml-dog/blob/master/dog_app.ipynb
+
+https://github.com/dsoellinger/Udacity-Machine-Learning-Nanodegree/blob/master/assignments/dog-project/dog_app.ipynb
